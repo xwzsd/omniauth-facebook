@@ -3,3 +3,4 @@ source 'https://rubygems.org'
 gem 'sinatra'
 gem 'sinatra-reloader'
 gem 'omniauth-facebook', path: '../'
+gem 'omniauth-oauth2', :git => 'git://github.com/xwzsd/omniauth-oauth2
